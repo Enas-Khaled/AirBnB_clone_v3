@@ -1,5 +1,3 @@
-#!/usr/bin/python3xx
-
 from flask import Blueprint
 
 

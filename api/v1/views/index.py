@@ -1,5 +1,5 @@
 #!/usr/bin/python3xx
-'''api  status'''
+'''api status'''
 import models
 from models import storage
 from models.base_model import BaseModel
@@ -11,7 +11,6 @@ from api.v1.views import app_views
 def returnstuff():
     '''return stuff'''
     return jsonify(status='OK')
-
 
 
 @app_views.route('/stats', strict_slashes=False)

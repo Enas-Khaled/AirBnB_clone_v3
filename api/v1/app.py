@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Flsk server (variable app)
+"""Flask server (variable app)
 """
 
 
